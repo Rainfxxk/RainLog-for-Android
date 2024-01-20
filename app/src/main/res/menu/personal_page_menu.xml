@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/post_item"
+        android:title="动态"
+        />
+
+<!--    <item-->
+<!--        android:id="@+id/blog_item"-->
+<!--        android:title="博客"-->
+<!--        />-->
+
+    <item
+        android:id="@+id/bookmark_item"
+        android:title="收藏"
+        />
+
+    <item
+        android:id="@+id/follow_item"
+        android:title="关注"
+        />
+</menu>
